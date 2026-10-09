@@ -22,7 +22,10 @@ An end-to-end Data Analytics project analyzing customer attrition patterns acros
 * **Version Control:** Git & GitHub
 
 
+## 📊 Dashboard Preview
+<img width="1048" height="592" alt="Dashboard for Bank-Custmer-Churn" src="https://github.com/user-attachments/assets/b4535193-c5fe-48e3-a82e-a4326219a90f" />
 ---
+
 
 ## 🔍 Business Questions Analyzed via MySQL
 
